@@ -1,0 +1,2 @@
+from .compressed_reader import CompressedFileReader, CompressedStreamReader
+from .compressed_writer import CompressedFileWriter, CompressedStreamWriter
